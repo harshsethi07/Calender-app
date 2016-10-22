@@ -4,6 +4,12 @@ A Simple Calender tool written in C++
 Uses simple for loops and basic level c++ programming.
 Very easy to understand and use.
 
+# Terminal Commands in Linux 
+
+  1.   g++ Calenderapp.cpp -o Calenderapp
+  2.   ./Calenderapp
+
+
 # Utilities of the App
 
   1.Checks if a year is leap year.<br/>
