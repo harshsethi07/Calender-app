@@ -6,7 +6,7 @@ Very easy to understand and use.
 
 # Utilities of the App
 
-  1.Checks if a year is leap year.
+  1.Checks if a year is leap year.<br/>
   2.Prints Calender for a month.  
   3.Prints calender for a year.
   
