@@ -4,7 +4,7 @@ A Simple Calender tool written in C++
 Uses simple for loops and basic level c++ programming.
 Very easy to understand and use.
 
-# Terminal Commands in Linux 
+# Terminal Commands for Linux 
 
   1.   g++ Calenderapp.cpp -o Calenderapp
   2.   ./Calenderapp
