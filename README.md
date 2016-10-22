@@ -4,10 +4,10 @@ A Simple Calender tool written in C++
 Uses simple for loops and basic level c++ programming.
 Very easy to understand and use.
 
-Has 3 functions:
+# Utilities of the App
 
-  - Checks if a year is leap year
-  - Prints Calender for a month
-  - Prints calender for a year
+  1.Checks if a year is leap year
+  2.Prints Calender for a month
+  3.Prints calender for a year
   
 Output is formatted using tab spaces to look good.
