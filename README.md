@@ -1,7 +1,7 @@
 # Calender-App
 
-A Simple Calender tool written in C++
-Uses simple for loops and basic level c++ programming.
+A Simple calender tool written in C++.
+Uses simple "for" loops and basic c++ programming.
 Very easy to understand and use.
 
 # Terminal Commands for Linux 
